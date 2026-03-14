@@ -1,0 +1,8 @@
+[13/02/2026 19:21:58] Cannot read properties of undefined (reading 'findAll')
+[13/02/2026 19:22:03] Cannot read properties of undefined (reading 'findAll')
+[13/02/2026 19:22:44] Cannot read properties of undefined (reading 'findAll')
+[13/02/2026 19:25:36] Cannot read properties of undefined (reading 'findAll')
+[13/02/2026 19:29:08] Cannot read properties of undefined (reading 'findAll')
+[13/02/2026 19:30:37] Cannot read properties of undefined (reading 'findAll')
+[13/02/2026 19:31:05] Cannot read properties of undefined (reading 'findAll')
+[13/02/2026 19:32:07] Cannot read properties of undefined (reading 'findAll')

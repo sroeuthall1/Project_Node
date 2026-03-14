@@ -1,0 +1,4 @@
+[14/02/2026 12:13:48] Incorrect date value: 'Invalid date' for column 'Stock_Date' at row 1
+[14/02/2026 12:14:36] Incorrect date value: 'Invalid date' for column 'Stock_Date' at row 1
+[14/02/2026 12:34:55] rows is not defined
+[14/02/2026 12:40:19] rows is not defined

@@ -1,0 +1,11 @@
+[10/02/2026 20:21:18] last is not defined
+[10/02/2026 20:21:18] notNull Violation: tbl_category.Cate_Id cannot be null
+[10/02/2026 20:22:28] last is not defined
+[10/02/2026 20:22:28] notNull Violation: tbl_category.Cate_Id cannot be null
+[10/02/2026 20:23:57] last is not defined
+[10/02/2026 20:23:57] notNull Violation: tbl_category.Cate_Id cannot be null
+[10/02/2026 20:29:40] Sequelize is not defined
+[10/02/2026 20:31:21] Cannot read properties of undefined (reading 'literal')
+[10/02/2026 20:33:12] Cannot read properties of undefined (reading 'findOne')
+[10/02/2026 20:33:58] Cannot read properties of undefined (reading 'literal')
+[10/02/2026 20:35:15] Field 'createdAt' doesn't have a default value

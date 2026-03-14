@@ -1,0 +1,4 @@
+[13/02/2026 18:59:07] Unknown column 'createdAt' in 'field list'
+[13/02/2026 18:59:14] Unknown column 'createdAt' in 'field list'
+[13/02/2026 19:09:00] Cannot destructure property 'Brand_Name' of 'req.body' as it is undefined.
+[13/02/2026 19:10:09] Cannot destructure property 'Brand_Name' of 'req.body' as it is undefined.
